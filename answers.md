@@ -318,7 +318,7 @@ B) is the answer as the problem was not forseen during checking. So it is an unk
 ## Question 16
 Which of the following would be a valid use case for instanceof instead of getClass for checking the type of an object?
 
-**A) Checking if an object complies with an interface so that we can use a method on that interface\**
+**A) Checking if an object complies with an interface so that we can use a method on that interface**\
 B) Implementing the equals method for an object\
 C) It’s a trick question, you should never use instanceof in your code at all
 
